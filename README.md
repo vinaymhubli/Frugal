@@ -1,0 +1,2 @@
+# Frugal
+# Output Result
