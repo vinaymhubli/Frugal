@@ -5,8 +5,8 @@ Users can manage their expenditures by calculating their debit and credit histor
 ❷ profile viewer\
 ❸ Credit amount\
 ❹ Debit amount summary\ 
-❺ plots the graph which explains the expenditure on a particular day
-❻ CRUD operation
+❺ plots the graph which explains the expenditure on a particular day\
+❻ CRUD operation\
 ❼ logout 
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/189882066-84e02252-eb3a-489d-9f4d-31983e14cf17.mp4
