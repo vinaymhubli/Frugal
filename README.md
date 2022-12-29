@@ -4,7 +4,7 @@ Users can manage their expenditures by calculating their debit and credit histor
 ❶ Google signup/signin\
 ❷ profile viewer\
 ❸ Credit amount\
-❹ Debit amount summary\ 
+❹ Debit amount summary\
 ❺ plots the graph which explains the expenditure on a particular day\
 ❻ CRUD operation\
 ❼ logout 
