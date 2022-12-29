@@ -3,7 +3,7 @@ Users can manage their expenditures by calculating their debit and credit histor
 # Technical Outline 📕
 ❶ Google signup/signin\
 ❷ profile viewer\
-❸ Credit amount\
+❸ Credited amount\
 ❹ Debit amount summary\
 ❺ plots the graph which explains the expenditure on a particular day\
 ❻ CRUD operation\
